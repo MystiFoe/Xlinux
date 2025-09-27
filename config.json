@@ -1,0 +1,14 @@
+{
+  "keywords": [
+    "India"
+  ],
+  "scroll_count": 20,
+  "post_replies": true,
+  "min_scroll_delay": 3,
+  "max_scroll_delay": 8,
+  "min_action_delay": 0.5,
+  "max_action_delay": 2.5,
+  "debug_mode": true,
+  "max_reply_attempts": 10,
+  "reply_prompt": "As an experienced industry leader, reply to \"{tweet_text}\" in under *240 characters*. Match their tone, be respectful, add insight from experience, never mention yourself, avoid clich\u00e9s/slang, and invite meaningful dialogue.\n\nThe reply must be less than 240 Characters limit."
+}
